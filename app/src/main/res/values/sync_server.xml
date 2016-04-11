@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_sync_data_api_endpoint" templateMergeStrategy="preserve" translatable="false">
+        http://heiderlopes.com.br/restaurantes/
+    </string>
+</resources>

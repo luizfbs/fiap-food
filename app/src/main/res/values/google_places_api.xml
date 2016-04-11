@@ -1,0 +1,9 @@
+<resources>
+    <string name="google_places_nearby_api_endpoint" templateMergeStrategy="preserve" translatable="false">
+        https://maps.googleapis.com/maps/api/place/nearbysearch/
+    </string>
+
+    <string name="google_places_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyDR51GVp0H-8G_4xS5aFgPuXPbJ82SMdu4
+    </string>
+</resources>

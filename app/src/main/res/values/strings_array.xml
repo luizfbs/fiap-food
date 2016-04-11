@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="restaurant_types">
+        <item>Restaurant\'s Type</item>
+        <item>All You Can Eat</item>
+        <item>Fast Food</item>
+        <item>Delivery</item>
+        <item>Undefined</item>
+        <item>Unknown</item>
+    </string-array>
+
+    <string-array name="restaurant_costs">
+        <item>Restaurant\'s Cost</item>
+        <item>$</item>
+        <item>$$</item>
+        <item>$$$</item>
+        <item>$$$$</item>
+        <item>$$$$$</item>
+    </string-array>
+
+</resources>

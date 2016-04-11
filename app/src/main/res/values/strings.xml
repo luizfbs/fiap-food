@@ -1,0 +1,97 @@
+<resources>
+
+    <!-- Application -->
+    <string name="app_name">FIAP Food</string>
+    <string name="search">Search</string>
+    <string name="filters">Filters</string>
+    <string name="by_type">By Type</string>
+    <string name="by_cost">By Cost</string>
+    <string name="all">All</string>
+    <string name="loading">Loading…</string>
+
+    <string name="this_app_requires_location_permissions_to_work">This app requires location permissions to work</string>
+    <string name="there_re_no_restaurants_created__add_one_now">There\'re no restaurants created, add one now!</string>
+
+    <!-- Menu Collapse -->
+    <string name="_new">New</string>
+    <string name="list_restaurants">See List</string>
+    <string name="maps_restaurants">See Map</string>
+    <string name="sync_restaurants">Sync</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Login -->
+    <string name="login__fiap_food" translatable="false">Login | FIAP Food</string>
+    <string name="log_in_with_fb">LOG IN with FACEBOOK</string>
+    <string name="or">or</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="register">Register</string>
+    <string name="login_canceled">Login Canceled</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="you_must_provide_your_email">You must provide your email</string>
+    <string name="you_must_provide_your_password">You must provide a password</string>
+    <string name="user_and_password_do_not_match">User and password do not match</string>
+    <string name="an_error_ocurred_when_trying_to_register_a_new_user">An errror ocurred when trying to register a new user</string>
+    <string name="keep_me_connected">Keep me connected!</string>
+
+    <!-- Register -->
+    <string name="register__fiap_food">Register | FIAP Food</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_password">Your Password</string>
+    <string name="your_birthdate">Your Birthdate</string>
+    <string name="i_agree_to_the">I agree to the</string>
+    <string name="terms_of_service">terms of service</string>
+    <string name="you_must_provide_your_name">You must provide your name</string>
+    <string name="you_must_provide_your_birthdate">You must provide your birthdate</string>
+    <string name="you_must_agree_to_the_terms_of_service">You must agree to the terms of service</string>
+    <string name="email_is_already_registered">Email is already registered</string>
+
+    <!-- Form -->
+    <string name="new_restaurant">New Restaurant</string>
+    <string name="editing_restaurant">Editing Restaurant</string>
+    <string name="restaurant_s_name">Restaurant\'s Name</string>
+    <string name="you_must_provide_the_restaurant_s_name">You must provide the restaurant\'s name</string>
+    <string name="restaurant_s_phone">Restaurant\'s Phone</string>
+    <string name="restaurant_s_type">Restaurant\'s Type</string>
+    <string name="restaurant_s_cost">Restaurant\'s Cost</string>
+    <string name="restaurant_s_notes__optional_">Restaurant\'s Notes (optional)</string>
+    <string name="update_location">Update Location</string>
+    <string name="would_you_like_to_update_the_restaurant_gps_coordinates">Would you like to update the restaurant GPS coordinates?</string>
+    <string name="save">Save</string>
+    <string name="remove">Remove</string>
+    <string name="are_you_sure_you_want_to_remove_this_restaurant">Are you sure you want to remove this restaurant?</string>
+    <string name="are_you_going_to_add_one_of_this_places">Are you going to add one of this places?</string>
+
+    <string name="capture_or_select">Capture or Select</string>
+    <string name="permission_required">Permission required</string>
+    <string name="write_permission_required_to_take_picture">Write permission required to take picture</string>
+    <string name="finding_restaurants_nearby">Finding restaurants nearby…</string>
+
+    <!-- List View -->
+    <string name="list_mode">List Mode</string>
+    <string name="no_restaurants_found">No restaurants found</string>
+
+    <!-- Map View -->
+    <string name="map_mode">Map Mode</string>
+    <string name="get_me_there">Get me there!</string>
+    <string name="edit">Edit</string>
+
+    <!-- Sync Data -->
+    <string name="synchronizing_data">Synchronizing data…</string>
+    <string name="success">Success</string>
+    <string name="data_synchronization_is_successful">Data synchronization is successful!</string>
+    <string name="new_restaurants">new restaurants</string>
+    <string name="an_error_occurred_when_trying_to_sync_data__check_your_connection">An error occurred when trying to sync data, check your connection</string>
+
+    <!-- About -->
+    <string name="developed_by_luiz_souza">Developed by Luiz Souza</string>
+    <string name="copyright___fiap_2016" translatable="false">Copyright © FIAP 2016</string>
+    <string name="version_1_0b">Version 1.0b</string>
+
+</resources>
